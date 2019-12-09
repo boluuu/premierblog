@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <g id="fb" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="facebook" sketch:type="MSArtboardGroup">
+            <path d="M17.0065125,18 C17.5555125,18 17.9998875,17.555625 17.9998875,17.006625 L17.9998875,0.993375 C17.9998875,0.444375 17.5555125,0 17.0065125,0 L0.9932625,0 C0.4442625,0 -0.0001125,0.444375 -0.0001125,0.993375 L-0.0001125,17.006625 C-0.0001125,17.555625 0.4442625,18 0.9932625,18 L17.0065125,18 Z" id="box" fill="#385185" sketch:type="MSShapeGroup"></path>
+            <path d="M12.1930819,18 L12.1930819,11.1576235 L14.5520272,11.1576235 L14.9047349,8.49068689 L12.1930819,8.49068689 L12.1930819,6.78892734 C12.1930819,6.01590223 12.413099,5.49024516 13.5506096,5.49024516 L15,5.48914084 L15,3.10491055 C14.7493621,3.0717809 13.8885739,3 12.8871562,3 C10.7969946,3 9.36461582,4.24236178 9.36461582,6.52389016 L9.36461582,8.49068689 L7,8.49068689 L7,11.1576235 L9.36461582,11.1576235 L9.36461582,18 L12.1930819,18 Z" id="f" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
